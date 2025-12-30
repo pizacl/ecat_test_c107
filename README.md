@@ -1,13 +1,13 @@
 # Linux + Arduinoで始める EtherCAT 入門
 
-### C107 RMFwind ロボット関係技術合同誌 サンプルコード
+### C107 RMFwind ロボット関係技術合同誌 「おーばーでぃすちゃーじ」
 ### Author：@pizac__ (https://x.com/pizac__)
 
 ---
 
 ## 概要
 
-本リポジトリは，**C107 RMFwind ロボット関係技術合同誌
+本リポジトリは，**C107 RMFwind ロボット関係技術合同誌「おーばーでぃすちゃーじ」の
 「Linux + Arduinoで始める EtherCAT 入門」** 向けに用意した
 **EtherCAT 学習・検証用サンプルコード**です．
 
@@ -18,10 +18,10 @@ EtherCAT スレーブの最小構成で組み，効率的な学習を目指し�
 
 ## サンプル構成
 
-- **teensy41_led_blink**  
+- **teensy41_led_blink/**  
   Teensy 用 PlatformIO 環境確認（LED点滅）サンプル
 
-- **teensy41_ecat_test**  
+- **teensy41_ecat_test/**  
   Teensy 用 EtherCAT スレーブ実装サンプル
 
 - **linux/**  
@@ -46,8 +46,8 @@ ecat_servo/examples/SOES_CIA402_AX58100
     しています．
 
 参考リポジトリ：
-[https://github.com/kubabuda/ecat_servo](https://github.com/kubabuda/ecat_servo)
-[Simple Open Source EtherCAT Slave](https://github.com/OpenEtherCATsociety/SOES)
+- [https://github.com/kubabuda/ecat_servo](https://github.com/kubabuda/ecat_servo)
+- [Simple Open Source EtherCAT Slave](https://github.com/OpenEtherCATsociety/SOES)
 
 ### SOEM（Simple Open EtherCAT Master Library）
 
