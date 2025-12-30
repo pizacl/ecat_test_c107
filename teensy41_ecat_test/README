@@ -1,0 +1,5 @@
+# TEENSY41_ECAT_TEST
+
+Teensy + SOES + AX58100 で EtherCATスレーブを作るサンプルコード
+
+ピン配置は，include/pinout.h を参照のこと．GND, SCK, MOSI, MISO, CS(NSS) をAX58100に接続する必要がある．
